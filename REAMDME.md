@@ -2,7 +2,7 @@
 
 The Security Log Profile for ASM must be set like this : 
 
-'''js
+```js
 security log profile Log_ELK {
 	application {
         Log_ELK {
@@ -27,4 +27,4 @@ security log profile Log_ELK {
         }
     }
 }
-'''
+```
